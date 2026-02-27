@@ -1,0 +1,20 @@
+name = input("Enter employee name: ")
+salary = float(input("Enter salary: "))
+
+print(f"Employee Name: {name}")
+print(f"Monthly Salary: ₹{salary}")
+print(f"Yearly Salary: ₹{salary * 12}") 
+
+name = "Rahul"
+age = 18
+course = "Computer Science"
+
+print(f"Name: {name}, Age: {age}, Course: {course}")
+
+marks = 450
+total = 500
+
+percentage = (marks / total) * 100
+
+print(f"You scored {marks} out of {total}.")
+print(f"Your percentage is {percentage}%.")
