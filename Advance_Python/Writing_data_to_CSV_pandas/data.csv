@@ -1,0 +1,25 @@
+Name,Age,City
+John,20,New York
+Mary,25,London
+Tom,30,Paris
+John,20,New York
+Name,Age,City
+John,20,New York
+Mary,25,London
+Tom,30,Paris
+John,20,New York
+Name;Age;City
+John;20;New York
+Mary;25;London
+Tom;30;Paris
+John;20;New York
+Name,Age,City
+John,20,New York
+Mary,25,London
+Tom,30,Paris
+John,20,New York
+Name,Age
+John,20
+Mary,25
+Tom,30
+John,20
